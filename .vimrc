@@ -1,0 +1,1 @@
+/home/parkie/.vim/vimrc
